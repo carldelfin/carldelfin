@@ -1,4 +1,4 @@
-Hi! I'm Carl Delfin, a...
+### Hi! I'm Carl Delfin, a...
 
 * 👨‍🎓 PhD in Medical Science
 * 🧠 Neuroscience researcher
@@ -8,6 +8,8 @@ Hi! I'm Carl Delfin, a...
 * 🏋️‍♂️ Weightlifter
 
 ... And much else. 
+
+### Research
 
 An up-to-date list of my publications is available at [ORCID](https://orcid.org/0000-0003-4827-7650). Code relevant to my research is available in the following repos:
 
@@ -20,4 +22,6 @@ An up-to-date list of my publications is available at [ORCID](https://orcid.org/
 
 Be sure to out my other projects, including my [dotfiles](https://github.com/carldelfin/dotfiles) and my Vim colorscheme, [ayur](https://github.com/carldelfin/ayur).
 
-[![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=carldelfin&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+### Language stats
+
+[![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=carldelfin&layout=compact&show_icons=true&theme=ayu-mirage)](https://github.com/anuraghazra/github-readme-stats)
