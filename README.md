@@ -24,6 +24,6 @@ Be sure to out my other projects, including my [dotfiles](https://github.com/car
 
 ### Stats
 
-[![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=carldelfin&layout=compact&show_icons=true&theme=ayu-mirage)](https://github.com/anuraghazra/github-readme-stats)
+[![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=carldelfin&hide=scilab&layout=compact&show_icons=true&theme=ayu-mirage)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=carldelfin&layout=compact&show_icons=true&theme=ayu-mirage)](https://github.com/anuraghazra/github-readme-stats)
