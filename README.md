@@ -4,10 +4,9 @@
 * 🧠 Neuroscience researcher
 * 🖥️ Statistical programmer (:heart: R)
 * 🐧 Linux user (:heart: Debian)
+* ⌨️ Keyboard builder
 * 🏃‍♂️ Trail runner
 * 🏋️‍♂️ Weightlifter
-
-... And much else. 
 
 ### Research
 
