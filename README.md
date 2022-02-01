@@ -20,9 +20,3 @@ An up-to-date list of my publications is available at [ORCID](https://orcid.org/
 * :page_facing_up: [EF-psychopathy](https://github.com/carldelfin/EF-psychopathy)
 
 Be sure to out my other projects, including my [dotfiles](https://github.com/carldelfin/dotfiles) and my Vim colorscheme, [ayur](https://github.com/carldelfin/ayur).
-
-### Stats
-
-[![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=carldelfin&hide=scilab&layout=compact&show_icons=true&theme=ayu-mirage)](https://github.com/anuraghazra/github-readme-stats)
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=carldelfin&layout=compact&show_icons=true&theme=ayu-mirage)](https://github.com/anuraghazra/github-readme-stats)
