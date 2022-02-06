@@ -19,4 +19,4 @@ An up-to-date list of my publications is available at [ORCID](https://orcid.org/
 * :page_facing_up: [neuroprediction](https://github.com/carldelfin/neuroprediction)
 * :page_facing_up: [EF-psychopathy](https://github.com/carldelfin/EF-psychopathy)
 
-Be sure to out my other projects, including my [dotfiles](https://github.com/carldelfin/dotfiles) and my Vim colorscheme, [ayur](https://github.com/carldelfin/ayur).
+Be sure to out my other projects, including my [dotfiles](https://github.com/carldelfin/dotfiles).
