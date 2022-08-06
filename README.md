@@ -6,7 +6,7 @@
 * 🐧 Linux user (:heart: Debian)
 * ⌨️ Keyboard builder
 * 🏃‍♂️ Trail runner
-* 🏋️‍♂️ Weightlifter
+* 🏋️‍♂️ Powerlifter
 
 ### Research
 
