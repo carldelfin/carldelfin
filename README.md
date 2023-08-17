@@ -1,12 +1,9 @@
 ### Hi! I'm Carl Delfin, a...
 
 * 👨‍🎓 PhD in Medical Science
-* 🧠 Neuroscience researcher
-* 🖥️ Statistical programmer (:heart: R)
+* 🖥️ Data Scientist (:heart: R)
 * 🐧 Linux user (:heart: Debian)
-* ⌨️ Keyboard builder
-* 🏃‍♂️ Trail runner
-* 🏋️‍♂️ Powerlifter
+* ⌨️ Keyboard builder (:heart: [Sweep](https://github.com/davidphilipbarr/Sweep))
 
 ### Research
 
