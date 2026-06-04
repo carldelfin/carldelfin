@@ -1,6 +1,6 @@
 ### Hi! I'm Carl Delfin, a...
 
-* 🖥️ Senior Data Scientist @ Novo Nordisk
+* 🖥️ Modelling Specialist @ Novo Nordisk
 * 👨‍🎓 PhD in Medical Science
 * 🐧 Linux fanatic
 * ⌨️ Split keyboard builder
